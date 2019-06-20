@@ -4,13 +4,13 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 
 ### Term 1
 
-**Intro to Computer Science**
+**Intro to Computer Science** ✅ (choose 1)
 
 > [Stanford CS101](https://lagunita.stanford.edu/courses/Engineering/CS101/Summer2014/about) *(Note: teaches in JavaScript)*  
 > *or*  
 > [Stanford CS106a](https://itunes.apple.com/us/itunes-u/programming-methodology/id384232896?mt=10) *(Note: teaches in Java)*  
 > *or*  
-> [Harvard CS50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  
+> [Harvard CS50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) ✅  
 > *or*  
 > [UC Berkeley CS61A](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)
 
